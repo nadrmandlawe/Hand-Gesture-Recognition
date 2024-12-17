@@ -161,4 +161,3 @@ pip install -r requirements.txt
 - Use more advanced gesture models for higher accuracy.
 
 ---
-# Hand-Gesture-Recognition
