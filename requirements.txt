@@ -1,0 +1,10 @@
+arabic_reshaper==3.0.0
+cvzone==1.5.6
+numpy==1.25.0
+numpy==1.24.3
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+Pillow==9.5.0
+Pillow==10.0.0
+Pillow==11.0.0
+python_bidi==0.4.2
